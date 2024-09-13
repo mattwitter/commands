@@ -49,7 +49,7 @@
           },
           {
             command: '!today clear',
-            response: 'CLear today\'s logged drops'
+            response: 'Clear today\'s logged drops'
           }
         ],
       }
